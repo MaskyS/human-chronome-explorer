@@ -1,0 +1,17 @@
+FILE: all_countries.csv
+HEADERS:
+subcategory|countryISO3|region_code|population|hoursPerDayCombined|uncertaintyCombined|dataStatus|dataStatusEconomic
+
+SAMPLE_ROWS:
+active_rec|ABW|AM_C|101665.0|0.46|0.10062422984757431|interpolated|observed
+adultcare|ABW|AM_C|101665.0|0.47|0.04452763009626755|interpolated|observed
+allocation|ABW|AM_C|101665.0|1.54|0.13039501687790178|interpolated|observed
+buildings|ABW|AM_C|101665.0|0.22|0.01386789731616375|interpolated|observed
+childcare|ABW|AM_C|101665.0|0.7|0.07098434543021044|interpolated|observed
+education_research|ABW|AM_C|101665.0|1.22|0.31053287732867507|interpolated|observed
+energy|ABW|AM_C|101665.0|0.05|0.003596790007962841|interpolated|observed
+growth_collection|ABW|AM_C|101665.0|0.17|0.02687976510331488|interpolated|observed
+hygiene_grooming|ABW|AM_C|101665.0|0.93|3.0208712593909075|interpolated|observed
+infrastructure|ABW|AM_C|101665.0|0.07|0.0007945834241719482|interpolated|observed
+
+META: total_rows=4776 total_columns=8

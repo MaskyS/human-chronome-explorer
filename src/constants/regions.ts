@@ -1,0 +1,23 @@
+// src/constants/regions.ts
+export const REGIONS: Record<string, string> = {
+    'AF_N': 'Northern Africa',
+    'AF_E': 'Eastern Africa',
+    'AF_M': 'Middle Africa',
+    'AF_S': 'Southern Africa',
+    'AF_W': 'Western Africa',
+    'AM_C': 'Caribbean',
+    'AM_C': 'Central America',
+    'AM_S': 'South America',
+    'AM_N': 'Northern America',
+    'AS_C': 'Central Asia',
+    'AS_E': 'Eastern Asia',
+    'AS_SE': 'South-eastern Asia',
+    'AS_S': 'Southern Asia',
+    'AS_W': 'Western Asia',
+    'EU_E': 'Eastern Europe',
+    'EU_N': 'Northern Europe',
+    'EU_S': 'Southern Europe',
+    'EU_W': 'Western Europe',
+    'ANZ': 'Australia and New Zealand',
+    'AS_SE': 'Western Pacific Islands',
+  };

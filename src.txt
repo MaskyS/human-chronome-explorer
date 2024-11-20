@@ -1,0 +1,37 @@
+```
+└─ src
+   ├─ .DS_Store
+   ├─ App.css
+   ├─ App.tsx
+   ├─ assets
+   │  └─ react.svg
+   ├─ components
+   │  ├─ DailyTimeCircle.tsx
+   │  ├─ DataValidator.tsx
+   │  ├─ FilterPanel.tsx
+   │  └─ GlobalTimeDistribution.tsx
+   ├─ constants
+   │  ├─ activityDefinitions.ts
+   │  ├─ activityGroups.ts
+   │  ├─ highLevelCategories.ts
+   │  └─ regions.ts
+   ├─ context
+   │  └─ DataContext.tsx
+   ├─ data
+   │  ├─ all_countries.csv
+   │  ├─ country_regions.csv
+   │  ├─ global_economic_activity.csv
+   │  └─ global_human_day.csv
+   ├─ index.css
+   ├─ main.tsx
+   ├─ types
+   │  ├─ activities.ts
+   │  ├─ data.ts
+   │  └─ visualization.ts
+   ├─ utils
+   │  ├─ dataProcessor.ts
+   │  ├─ dataValidator.ts
+   │  └─ time.ts
+   └─ vite-env.d.ts
+
+```
