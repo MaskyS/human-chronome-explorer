@@ -2,12 +2,19 @@
 This project provides an interactive website to explore the data provided by the Human Chronome Project. 
 
 [x] Filter by country
+
 [x] Filter by region
+
 [ ] Filter by Age groups
-  [ ] Generate a unified age stratified version of all_countries.csv
+
+[ ] Generate a unified age stratified version of all_countries.csv
+
 [ ] Filter by GDP range
-[ ] Reverse filter: show GDP/Age/Country/Region that does X activity the most
-[ ] 
+
+[ ] Reverse filter: show GDP/Age/Country/Region that does X activities the most
+
+[ ] Set up this repo with a static website
+
 
 ## React + TypeScript + Vite
 
